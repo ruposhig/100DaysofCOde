@@ -1,0 +1,54 @@
+body {
+  text-align: center;
+}
+h1 {
+  color: rgb(95, 68, 202);
+  font-family: sans-serif;
+  font-weight: bolder;
+}
+img {
+  width: 200px;
+}
+main {
+  width: 730px;
+  margin: 50px auto 20px auto;
+  text-align: left;
+  background-color: rgba(104, 53, 180, 0.899);
+  border-radius: 6px;
+  padding: 20px;
+  color: white;
+  font-family: sans-serif;
+}
+ul {
+  list-style: none;
+}
+span {
+  background-color: rgb(255, 250, 111);
+  color: black;
+  padding: 2px;
+  border-radius: 5px;
+}
+footer div {
+  background-color: rgb(218, 213, 62);
+  width: 200px;
+  margin: auto;
+  padding: 0.5px;
+  border-radius: 5px;
+  font-family: sans-serif;
+}
+#author-name{
+    color: grey;
+}
+li{
+  border-left: 4px solid yellow hidden;
+  margin: 6px;
+  padding-left: 7px;
+}
+.extra-important{
+  border-left: 4px solid rgb(247, 211, 128);
+  color: rgb(240, 222, 151);
+}
+a{
+  color: black;
+  text-decoration: none;
+}
